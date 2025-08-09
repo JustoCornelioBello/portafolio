@@ -1,4 +1,4 @@
-<img width="2880" height="15984" alt="screencapture-127-0-0-1-5500-index-html-2025-08-09-14_40_40" src="https://github.com/user-attachments/assets/d3171ba9-1391-423a-973f-102d83f7c548" /># 🌐 Portafolio de Justo Cornelio Bello
+
 
 Bienvenido a mi portafolio profesional, donde muestro mis habilidades como **Desarrollador Web** y **Analista de Datos**.  
 Este proyecto está diseñado para presentar mis trabajos, habilidades, experiencia y servicios de forma moderna, responsiva y optimizada.
@@ -7,8 +7,7 @@ Este proyecto está diseñado para presentar mis trabajos, habilidades, experien
 
 ## 📸 Vista previa
 
-![Vista previa del portafolio](assets/img/portafolio.png)
-
+!<img width="2880" height="15984" alt="screencapture-127-0-0-1-5500-index-html-2025-08-09-14_40_40" src="" /># 🌐 Portafolio de Justo Cornelio Bello
 
 ---
 
