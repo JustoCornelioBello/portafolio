@@ -7,7 +7,6 @@ Este proyecto está diseñado para presentar mis trabajos, habilidades, experien
 
 ## 📸 Vista previa
 
-!<img width="2880" height="15984" alt="screencapture-127-0-0-1-5500-index-html-2025-08-09-14_40_40" src="/assets/img/portafolio.png" /># 🌐 Portafolio de Justo Cornelio Bello
 
 ---
 
